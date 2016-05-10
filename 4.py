@@ -13,4 +13,3 @@ while (count < 400):
     nothing = match.group(1)
     count += 1
     print count, " : ", nothing
-
